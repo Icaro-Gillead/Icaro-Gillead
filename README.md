@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Icaro-Gillead
-- 👀 I’m interested in Data Science and Python programming.
-- 🌱 I’m currently learning Data Science in a Brazilian Tech College, also I'm delving into Python.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science, therefore Python and mathematics/statistics.
+- 🌱 I’m currently learning Data Science in a Brazilian Tech College.
 - 📫 How to reach me:
 - www.linkedin.com/in/icaro-gillead
 - 
