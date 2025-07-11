@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Icaro-Gillead
 - 👀 I’m interested in Data Science, therefore Python and mathematics/statistics.
-- 🌱 I’m currently learning Data Science in a Brazilian Tech College.
+- 📊 Data Engineer and Data Analyst for a National Infrastructure Company in Brazil.
+- 🎓 Automation Technologist.
+- Large experience in Python and Visual Basic [for Applications (VBA) and Script (VBS)].
+- knowledge in C++.
 - 📫 How to reach me:
 - www.linkedin.com/in/icaro-gillead
 - 
