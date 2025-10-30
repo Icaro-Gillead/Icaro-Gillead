@@ -65,7 +65,6 @@
 <!-- Força quebra de linha para evitar sobreposição de ícones -->
 <br/>
 <br/>
-
 ---
 
 ## 📊 Estatísticas
