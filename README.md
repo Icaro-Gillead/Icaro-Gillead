@@ -1,21 +1,18 @@
 # 🧑🏻‍💻 Icaro Gillead Ramos
-
 **``**
-
 - 👋 Hi, I’m @Icaro-Gillead
 - 👀 I’m interested in Data Science, therefore Python and mathematics/statistics.
 - 📊 Data Engineer and Data Analyst for a National Infrastructure Company in Brazil.
 - 🎓 Automation Technologist.
 - Large experience in Python and Visual Basic [for Applications (VBA) and Script (VBS)].
 - knowledge in C++.
-
 ---
 
 ## 🌐 Conecte-se comigo:
 
 <div> 
   <!-- Link para o Instagram -->
-  <a href="https://instagram.com/marioleo7k" target="_blank">
+  <a href="https://instagram.com/icarogillead" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <!-- Link para o email -->
@@ -81,7 +78,7 @@
         alt="GitHub Stats" 
         height="200" 
         style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=marioleo7k&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+        src="https://github-readme-stats.vercel.app/api?username=Icaro-Gillead&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
       />
     </td>
     <td>
@@ -89,7 +86,7 @@
       <img 
         alt="Top Tecnologias" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioleo7k&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icaro-Gillead&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800"
       />
     </td>
   </tr>
