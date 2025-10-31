@@ -62,6 +62,13 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
 
+<img
+    alt="Icaro's Skills"
+    width="90px"
+    src="https://skillicons.dev/icons?i=vscode,git,cpp"
+    title="VSCode | Git | C++"
+/>
+
 <!-- Força quebra de linha para evitar sobreposição de ícones -->
 <br/>
 <br/>
